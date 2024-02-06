@@ -1,2 +1,2 @@
 # Apex-Specialist
-fallowing Apex Specilist Superbadge on Trailhead by Salesforce
+following Apex Specilist Superbadge on Trailhead by Salesforce
